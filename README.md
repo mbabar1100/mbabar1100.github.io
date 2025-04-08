@@ -112,11 +112,11 @@
         <div class="contact-bar">
             <div class="contact-item">
                 <i class="fas fa-envelope icon"></i>
-                <a href="mailto:your.email@example.com">Email</a>
+                <a href="mailto:mbabar.msit22seecs@seecs.edu.pk">Email</a>
             </div>
             <div class="contact-item">
                 <i class="fab fa-linkedin icon"></i>
-                <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+                <a href=" https://www.linkedin.com/in/muhammad-babar-98752795/">LinkedIn</a>
             </div>
             <div class="contact-item">
                 <i class="fab fa-github icon"></i>
