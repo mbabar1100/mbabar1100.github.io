@@ -128,7 +128,6 @@
     </div>
 </section>
 
-</section>
 
 
     <section class="section">
