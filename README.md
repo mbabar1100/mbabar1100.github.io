@@ -227,6 +227,16 @@
         <li><strong>Sri Lanka</strong> - October 2018</li>
     </ul>
 </section>
+<section class="section">
+    <h2>Hobbies & Interests</h2>
+    <ul>
+        <li>Enjoying off time with family, Specialty Coffee Brewing, Cooking, Cycling, Gaming, Hiking, etc.</li>
+        <li>Volunteer at community gym, helping peers to make workout plans.</li>
+        <li>Developing AI tutorial for early year school kids.</li>
+        <li>Experimenting with sensor-based plant/gardening monitoring systems.</li>
+    </ul>
+</section>
+
 
 
     <footer>
