@@ -105,22 +105,29 @@
         <h1>Muhammad Babar</h1>
         <p>Artificial Intelligence, Machine Learning & Data Expert</p>
     </header>
-    <section class="section">
+    <head>
+    <!-- Include FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<section class="section">
     <h2>Contact Information</h2>
     <div class="contact-bar">
         <div class="contact-item">
-
+            <i class="fas fa-phone-alt icon"></i>
             <span><a href="tel:+923448593301">+92-344-8593301</a></span>
         </div>
         <div class="contact-item">
-            
+            <i class="fas fa-envelope icon"></i>
             <span><a href="mailto:mbabar.msit22seecs@seecs.edu.pk">mbabar.msit22seecs@seecs.edu.pk</a></span>
         </div>
         <div class="contact-item">
-
-            <span><a href="https://www.linkedin.com/in/muhammad-babar-98752795/" target="_blank">LinkedIn</a></span>
+            <i class="fab fa-linkedin icon"></i>
+            <span><a href="https://www.linkedin.com/in/muhammad-babar-98752795/" target="_blank">LinkedIn Profile</a></span>
         </div>
     </div>
+</section>
+
 </section>
 
 
