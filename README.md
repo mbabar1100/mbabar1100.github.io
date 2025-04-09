@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,6 +104,7 @@
 </head>
 <body>
     <header>
+        <img src="profile.jpg" alt="Muhammad Babar">
         <h1>Muhammad Babar</h1>
         <p>Artificial Intelligence, Machine Learning & Data Expert</p>
     </header>
@@ -163,6 +164,16 @@
                 <p>Final Year Project: “Land Revenue & Recovery Management System”</p>
             </div>
         </div>
+
+        <h3>International Summer Schools & Certifications</h3>
+        <ul>
+            <li><strong>Cambridge Summer School “Artificial Intelligence in Medicine”</strong> | University of Cambridge, England | 09-13 September 2024</li>
+            <li><strong>Oxford Machine Learning Summer School “Machine Learning for Health & Bio”</strong> | University of Oxford, England | 06-14 July 2024</li>
+            <li><strong>Centre for Digital Health “Digital Health Summit 2024”</strong> | Stanford University, USA | 27-28 February 2024</li>
+            <li><strong>International Summer School in Information Technology</strong> | Brno University of Technology, Czech Republic | 10-25 July 2023</li>
+            <li><strong>Sensors & Artificial Intelligence Towards Sustainable Technology Design</strong> | Coventry University, UK | 04-09 June 2023</li>
+            <li><strong>Health Information Systems Certificate</strong> | University of Oslo, Norway | 01-04 June 2018</li>
+        </ul>
     </section>
 
     <section class="section">
@@ -170,21 +181,38 @@
         <div class="card">
             <h3>Management Information Systems Officer</h3>
             <p><em>Ministry of Health, Government of Pakistan</em> | July 2017 - Present</p>
-            <p>Leading health systems development, deployment, and national-scale health data management. Conducting research in biomedical informatics and developing cutting-edge technologies for health data science.</p>
+            <p>Leading health systems development and deployment. Supervising data-driven healthcare decisions through user-friendly dashboards and reports. Researching in biomedical informatics and developing cutting-edge technologies to address complex health data challenges.</p>
+        </div>
+        <div class="card">
+            <h3>Technical Assistant Information Technology</h3>
+            <p><em>Pakistan Science Foundation, Ministry of Science and Technology, Government of Pakistan</em> | April 2017 - June 2017</p>
+            <p>Digitized program data and student information for streamlined management. Assisted in the design and maintenance of networks and databases. Managed databases and provided IT support to the team.</p>
+        </div>
+        <div class="card">
+            <h3>Information Technology Administrator</h3>
+            <p><em>Cabinet Division, Government of Pakistan</em> | February 2016 - March 2017</p>
+            <p>Administered the e-Office suite and streamlined document workflows. Provided support and training to staff for optimized productivity and maintained e-office configurations to align with organizational needs.</p>
         </div>
         <div class="card">
             <h3>Visiting Lecturer (Computer Science)</h3>
             <p><em>Alhamd Islamic University</em> | June 2014 - January 2016</p>
-            <p>Delivered lectures on Information Systems, Database Management, and Networks for BSCS students.</p>
+            <p>Taught Information Systems, Database Management Systems, and Network Fundamentals. Designed lessons and assignments, and evaluated student progress.</p>
+        </div>
+        <div class="card">
+            <h3>IT and Network Administrator</h3>
+            <p><em>Techno Digg Pvt. Ltd., UAE</em> | October 2012 - May 2014</p>
+            <p>Managed healthcare network infrastructure, ensuring reliable access to Electronic Health Records (EHR) and telemedicine systems. Ensured network security and HIPAA compliance.</p>
         </div>
     </section>
 
     <section class="section">
-        <h2>LEADERSHIP EXPERIENCE</h2>
+        <h2>Core Programming Skills</h2>
         <ul>
-            <li>Led IT projects for Pakistan’s Ministry of Health, coordinating 5+ team members to deploy AI-driven systems.</li>
-            <li>Mentored 50+ students in AI/ML through university programs and NGO workshops.</li>
-            <li>Chaired cross-functional teams of doctors, engineers, and policymakers to design health information systems (HIS).</li>
+            <li><strong>AI/ML & Data Science:</strong> TensorFlow, PyTorch, Scikit-learn, Spark, Pandas, NumPy, MLflow, Docker</li>
+            <li><strong>Cloud & Deployment:</strong> AWS SageMaker, Azure ML, Kubernetes, FastAPI</li>
+            <li><strong>Programming & Databases:</strong> Python, R, SQL, C++, MySQL, PostgreSQL, MongoDB</li>
+            <li><strong>Health IT & Visualization:</strong> DHIS2, Power BI, Tableau, EHR Systems (Epic), LaTeX</li>
+            <li><strong>Tools & Collaboration:</strong> Git, Jupyter, Overleaf</li>
         </ul>
     </section>
 
