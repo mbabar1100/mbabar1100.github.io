@@ -184,9 +184,7 @@
         <li><strong>A Machine Learning System for Retaining Patients in HIV Care</strong> - NUST, Pakistan</li>
     </ul>
 </section>
-
-
-    <section class="section">
+<section class="section">
         <h2>PROFESSIONAL EXPERIENCE</h2>
         <div class="card">
             <h3>Management Information Systems Officer</h3>
