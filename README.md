@@ -175,6 +175,17 @@
             <li><strong>Health Information Systems Certificate</strong> | University of Oslo, Norway | 01-04 June 2018</li>
         </ul>
     </section>
+    <section class="section">
+    <h2>Selected Key Projects</h2>
+    <ul>
+        <li><strong>HIV/AIDS Prevention Management Information System</strong> - Common Management Unit, Govt. of Pakistan</li>
+        <li><strong>HIV/AIDS Health Information System</strong> - National AIDS Control Programme, Govt. of Pakistan</li>
+        <li><strong>DHIS2 Module for HIV, TB and Malaria Control Program</strong> - Govt. of Pakistan</li>
+        <li><strong>Resource Allocation Techniques in Cloud Computing</strong> - NUST, Pakistan</li>
+        <li><strong>A Machine Learning System for Retaining Patients in HIV Care</strong> - NUST, Pakistan</li>
+    </ul>
+</section>
+
 
     <section class="section">
         <h2>PROFESSIONAL EXPERIENCE</h2>
