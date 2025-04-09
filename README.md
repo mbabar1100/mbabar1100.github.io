@@ -261,6 +261,18 @@
         <li>Experimenting with sensor-based plant/gardening monitoring systems.</li>
     </ul>
 </section>
+<section class="section">
+    <h2>GitHub Stats</h2>
+    <p><strong>Repositories:</strong> 12</p>
+    <p><strong>Projects:</strong> 5</p>
+    <p><strong>Stars:</strong> 4</p>
+    <p><strong>Followers:</strong> 3</p>
+    <p><strong>Following:</strong> 14</p>
+
+    <h3>Contribution Graph</h3>
+    <p><em>42 contributions in the last year</em></p>
+    <p>Click <a href="https://github.com/mbabar1100" target="_blank">here</a> to view my GitHub profile.</p>
+</section>
 
 
 
