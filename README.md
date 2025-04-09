@@ -215,6 +215,19 @@
             <li><strong>Tools & Collaboration:</strong> Git, Jupyter, Overleaf</li>
         </ul>
     </section>
+    <section class="section">
+    <h2>Countries Visited</h2>
+    <ul>
+        <li><strong>Saudi Arabia</strong> - September 2024</li>
+        <li><strong>England (Oxford, Cambridge, London)</strong> - July - September 2024</li>
+        <li><strong>United States of America (Washington DC, New York, New Jersey, Virginia, California)</strong> - February 2024</li>
+        <li><strong>Czech Republic, Austria</strong> - July 2023</li>
+        <li><strong>United Arab Emirates (UAE), Dubai</strong> - July 2024</li>
+        <li><strong>Norway, Sweden, Denmark, Germany, Netherlands, Belgium, France</strong> - June 2022</li>
+        <li><strong>Sri Lanka</strong> - October 2018</li>
+    </ul>
+</section>
+
 
     <footer>
         <p>© 2025 Muhammad Babar | AI for Healthcare</p>
