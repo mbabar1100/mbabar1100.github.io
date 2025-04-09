@@ -216,6 +216,23 @@
         </ul>
     </section>
     <section class="section">
+    <h2>Professional Certifications/Licenses</h2>
+    <ul>
+        <li><strong>Ethics and Governance of AI for Health</strong> - World Health Organization | 2024</li>
+        <li><strong>HIV Science and Community: Progress and Challenges</strong> - International AIDS Society | 2024</li>
+        <li><strong>Global Health, Climate Change, and Technology</strong> - TechChange Inc. | 2024</li>
+        <li><strong>Demystifying System Maintenance in DHIS2</strong> - BAO Systems Inc. | 2024</li>
+        <li><strong>Power BI Data Analyst Associate</strong> - Microsoft | 2023</li>
+        <li><strong>IBM Data Science Professional</strong> - IBM Inc. | 2023</li>
+        <li><strong>Data Analyst</strong> - Data Camp, Inc. | 2022</li>
+        <li><strong>Google Data Analytics Professional</strong> - Coursera Inc. | 2022</li>
+        <li><strong>Health Information System (HIS)</strong> - World Health Organization | 2018</li>
+        <li><strong>DHIS2 Tracker Level 2 Course</strong> - HISP Sri Lanka | 2018</li>
+        <li><strong>Junior Network Certified Internet Associate</strong> - Juniper Networks | 2010</li>
+    </ul>
+</section>
+
+    <section class="section">
     <h2>Countries Visited</h2>
     <ul>
         <li><strong>Saudi Arabia</strong> - September 2024</li>
