@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,7 +104,6 @@
 </head>
 <body>
     <header>
-        <img src="profile.jpg" alt="Muhammad Babar">
         <h1>Muhammad Babar</h1>
         <p>Artificial Intelligence, Machine Learning & Data Expert</p>
     </header>
