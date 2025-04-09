@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Babar | AI/Machine Learning & Data Expert</title>
+    <title>Welcome to my profile</title>
     <style>
         :root {
             --primary: #3498db;
