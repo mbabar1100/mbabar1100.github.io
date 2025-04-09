@@ -169,12 +169,12 @@
         <h2>EDUCATION</h2>
         <div class="grid">
             <div class="card">
-                <h3>MSc Information Technology</h3>
+                <h3>MS Information Technology</h3>
                 <p>National University of Sciences and Technology (NUST), Islamabad, Pakistan</p>
                 <p>Thesis: “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients”</p>
             </div>
             <div class="card">
-                <h3>BSc Information Technology (Gold Medalist)</h3>
+                <h3>BS Information Technology (Gold Medalist)</h3>
                 <p>Government College University, Faisalabad, Pakistan</p>
                 <p>Final Year Project: “Land Revenue & Recovery Management System”</p>
             </div>
