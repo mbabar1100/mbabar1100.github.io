@@ -107,6 +107,24 @@
         <h1>Muhammad Babar</h1>
         <p>Artificial Intelligence, Machine Learning & Data Expert</p>
     </header>
+    <section class="section">
+    <h2>Contact Information</h2>
+    <div class="contact-bar">
+        <div class="contact-item">
+            <img src="phone-icon.png" alt="Phone" class="icon">
+            <span><a href="tel:+923448593301">+92-344-8593301</a></span>
+        </div>
+        <div class="contact-item">
+            <img src="email-icon.png" alt="Email" class="icon">
+            <span><a href="mailto:mbabar.msit22seecs@seecs.edu.pk">mbabar.msit22seecs@seecs.edu.pk</a></span>
+        </div>
+        <div class="contact-item">
+            <img src="linkedin-icon.png" alt="LinkedIn" class="icon">
+            <span><a href="https://www.linkedin.com/in/muhammad-babar-98752795/" target="_blank">LinkedIn Profile</a></span>
+        </div>
+    </div>
+</section>
+
 
     <section class="section">
         <h2>PROFESSIONAL SUMMARY</h2>
