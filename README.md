@@ -182,7 +182,7 @@
             <div class="card">
                 <h3>BS Information Technology (Gold Medalist)</h3>
                 <p>Government College University, Faisalabad, Pakistan</p>
-                <p>Final Year Project: “Land Revenue & Recovery Management System”</p>
+                <p>Final Year Project: “Early Diabetes Prediction Using Ensemble Machine Learning”</p>
             </div>
         </div>
 
