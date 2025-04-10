@@ -167,7 +167,7 @@
         <h2>PUBLICATIONS</h2>
         <ul>
             <li><strong>M. Babar (2025):</strong> “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” submitted to ScienceDirect ELSEVIER Journal.</li>
-            <li><strong>M. Babar (2012):</strong> “Land Revenue & Recovery Management System for the Government of Punjab, Pakistan” final year research project.</li>
+            <li><strong>M. Babar (2012):</strong> “Early Diabetes Prediction Using Ensemble Machine Learning” final year research project.</li>
         </ul>
     </section>
 
