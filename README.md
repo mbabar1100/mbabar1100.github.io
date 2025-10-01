@@ -20,7 +20,7 @@
             background-color: var(--background);
         }
         header {
-            text-align: center;
+            text-align: left;
             margin-bottom: 30px;
             padding-bottom: 20px;
             border-bottom: 3px solid var(--primary);
@@ -102,7 +102,6 @@
 </head>
 <body>
     <header>
-        <h1>Muhammad Babar</h1>
         <p>PhD in Computer Science and Information Systems</p>
         <p>Artificial Intelligence, Machine Learning & Health Data Expert</p>
     </header>
