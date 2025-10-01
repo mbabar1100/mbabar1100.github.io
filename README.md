@@ -103,7 +103,8 @@
 <body>
     <header>
         <h1>Muhammad Babar</h1>
-        <p>Artificial Intelligence, Machine Learning & Data Expert</p>
+        <p>PhD in Computer Science and Information Systems, Artificial Intelligence, Machine Learning & Data Expert</p>
+        <p>Artificial Intelligence, Machine Learning & Health Data Expert</p>
     </header>
     <head>
     <!-- Include FontAwesome for icons -->
@@ -166,8 +167,10 @@
     <section class="section">
         <h2>PUBLICATIONS</h2>
         <ul>
-            <li><strong>M. Babar (2025):</strong> “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” submitted to ScienceDirect ELSEVIER Journal.</li>
-            <li><strong>M. Babar (2012):</strong> “Early Diabetes Prediction Using Ensemble Machine Learning” final year research project.</li>
+            <li><strong>Babar, M., Mumtaz, R., Asif, M. D. A., Bilal, H. S. M., Mumtaz, S., & Ul Haq, M. (2025):</strong> “A Machine Learning-Based Early Detection of Tuberculosis (TB) Co-Infection in Human Immunodeficiency Virus (HIV) Patients”. Manuscript submitted for publication.</li>
+            <li><strong>Babar, M., Ahmed, U., Tariq, S., Raza, R., & Sufian, A. (2025):</strong> “Text Mining-Driven Risk Prediction for Acute Heart Failure in Dyspnea Patients”. Manuscript submitted for publication.</li>
+            <li><strong>Faizan, M., Ali, S., Zia, U., & Babar, M. (2025):</strong> “3D SegUX-Net: Multi-modal MRI Segmentation using Large Kernels”. Manuscript submitted for publication, IEEE Transactions on Emerging Topics in Computational Intelligence.</li>
+            <li><strong>Babar, M. (2012):</strong> “Early Diabetes Prediction Using Ensemble Machine Learning” submitted to Department of Information Technology, Government College University, Faisalabad, Pakistan as final year research project.</li>
         </ul>
     </section>
 
