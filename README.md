@@ -102,7 +102,7 @@
 </head>
 <body>
     <header>
-        <p>PhD in Computer Science and Information Systems</p>
+        <p>PhD in Computer Science and Information Systems at University of Colorado Denver U.S. </p>
         <p>Artificial Intelligence, Machine Learning & Health Data Expert</p>
     </header>
     <head>
