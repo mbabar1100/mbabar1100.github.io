@@ -57,7 +57,7 @@
         }
         .contact-item {
             display: flex;
-            align-items: center;
+            align-items: left;
         }
         .icon {
             margin-right: 5px;
