@@ -114,10 +114,6 @@
     <h2>Contact Information</h2>
     <div class="contact-bar">
         <div class="contact-item">
-            <i class="fas fa-phone-alt icon"></i>
-            <span><a href="tel:+923448593301">+92-344-8593301</a></span>
-        </div>
-        <div class="contact-item">
             <i class="fas fa-envelope icon"></i>
             <span><a href="mailto:muhammad.babar@ucdenver.edu">muhammad.babar@ucdenver.edu</a></span>
         </div>
