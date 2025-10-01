@@ -103,7 +103,7 @@
 <body>
     <header>
         <h1>Muhammad Babar</h1>
-        <p>PhD in Computer Science and Information Systems, Artificial Intelligence, Machine Learning & Data Expert</p>
+        <p>PhD in Computer Science and Information Systems</p>
         <p>Artificial Intelligence, Machine Learning & Health Data Expert</p>
     </header>
     <head>
