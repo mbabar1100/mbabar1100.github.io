@@ -50,7 +50,7 @@
         }
         .contact-bar {
             display: flex;
-            justify-content: center;
+            justify-content: left;
             flex-wrap: wrap;
             gap: 15px;
             margin: 15px 0;
