@@ -120,7 +120,7 @@
         </div>
         <div class="contact-item">
             <i class="fas fa-envelope icon"></i>
-            <span><a href="mailto:mbabar.msit22seecs@seecs.edu.pk">mbabar.msit22seecs@seecs.edu.pk</a></span>
+            <span><a href="mailto:muhammad.babar@ucdenver.edu">muhammad.babar@ucdenver.edu</a></span>
         </div>
         <div class="contact-item">
             <i class="fab fa-linkedin icon"></i>
@@ -175,19 +175,36 @@
     </section>
 
     <section class="section">
-        <h2>EDUCATION</h2>
-        <div class="grid">
-            <div class="card">
-                <h3>MS Information Technology</h3>
-                <p>National University of Sciences and Technology (NUST), Islamabad, Pakistan</p>
-                <p>Thesis: “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients”</p>
-            </div>
-            <div class="card">
-                <h3>BS Information Technology (Gold Medalist)</h3>
-                <p>Government College University, Faisalabad, Pakistan</p>
-                <p>Final Year Project: “Early Diabetes Prediction Using Ensemble Machine Learning”</p>
-            </div>
+    <h2>EDUCATION</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>PhD in Computer Science & Information Systems</h3>
+            <p>University of Colorado Denver, U.S.</p>
+            <p>Focus: Artificial Intelligence and Machine Learning for Healthcare</p>
         </div>
+        <div class="card">
+            <h3>MS Information Technology</h3>
+            <p>National University of Sciences and Technology (NUST), Islamabad, Pakistan</p>
+            <p>Thesis: “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients”</p>
+        </div>
+        <div class="card">
+            <h3>BS Information Technology (Gold Medalist)</h3>
+            <p>Government College University, Faisalabad, Pakistan</p>
+            <p>Final Year Project: “Early Diabetes Prediction Using Ensemble Machine Learning”</p>
+        </div>
+    </div>
+
+    <h3>International Summer Schools & Certifications</h3>
+    <ul>
+        <li><strong>Cambridge Summer School “Artificial Intelligence in Medicine”</strong> | University of Cambridge, England | 09-13 September 2024</li>
+        <li><strong>Oxford Machine Learning Summer School “Machine Learning for Health & Bio”</strong> | University of Oxford, England | 06-14 July 2024</li>
+        <li><strong>Centre for Digital Health “Digital Health Summit 2024”</strong> | Stanford University, USA | 27-28 February 2024</li>
+        <li><strong>International Summer School in Information Technology</strong> | Brno University of Technology, Czech Republic | 10-25 July 2023</li>
+        <li><strong>Sensors & Artificial Intelligence Towards Sustainable Technology Design</strong> | Coventry University, UK | 04-09 June 2023</li>
+        <li><strong>Health Information Systems Certificate</strong> | University of Oslo, Norway | 01-04 June 2018</li>
+    </ul>
+</section>
+
 
         <h3>International Summer Schools & Certifications</h3>
         <ul>
